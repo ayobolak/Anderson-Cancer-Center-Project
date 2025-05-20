@@ -7,7 +7,10 @@ This project uses Principal Component Analysis (PCA) to reduce dimensionality an
 - Loaded and standardized the breast cancer dataset from `sklearn.datasets`
 - Applied PCA to reduce features to 2 main components
 - Visualized the PCA result
-- (Bonus) Implemented logistic regression on the PCA-reduced dataset
+- Implemented logistic regression on the PCA-reduced dataset
+
+  ![image](https://github.com/user-attachments/assets/fb5c6c83-d541-4782-9b48-7dfef0ea9dc9)
+
 
 ##  How to Run
 1. Clone this repo or unzip the downloaded file.
