@@ -1,7 +1,7 @@
 
 ## 📁 Uploaded Files
 
-The following Jupyter Notebooks are included in this repository:
+The following Jupyter Notebook is included in this repository:
 
 - `PCA Cancer Projects.ipynb` — Main Python notebook 
 
