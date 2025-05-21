@@ -1,4 +1,10 @@
 
+## 📁 Uploaded Files
+
+The following Jupyter Notebooks are included in this repository:
+
+- `PCA Cancer Projects.ipynb` — Main Python notebook 
+
 ## Key Tasks Completed
 
 ### 1. Load and Explore the Dataset
